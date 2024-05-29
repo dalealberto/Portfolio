@@ -5,10 +5,10 @@ Please view the [Executive Summary](https://github.com/dalealberto/ExecutiveSumm
 
 
 ### Automating work (Skills: Python)
-I [automated](https://github.com/dalealberto/Case_Study_GDA/tree/main/Python) the updating and sorting of the Google Data Analytics glossary documents
+I [automated](https://github.com/dalealberto/Case_Study_GDA/tree/main/Python) the updating and sorting of the Google Data Analytics glossary documents.
 
 
-### Dashboard (Skills: Tableau)
-***In progress
+### Visualization (Skills: Tableau, R)
+Please view my [public profile](https://public.tableau.com/app/profile/david.alberto3632/vizzes) on Tableau Public.
 
 
