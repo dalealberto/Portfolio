@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Turning data into a story (Skills: Excel, SQL, R):
-Please view the [Executive Summary](https://github.com/dalealberto/ExecutiveSummary/blob/main/PDF.pdf) first. For the full process, please view the [Case Study](https://dalealberto.github.io/Case_Study_GDA/).
+Please view the [Executive Summary](https://github.com/dalealberto/ExecutiveSummary/blob/main/Case%20Study%20Executive%20Summary.pdf) first. For the full process, please view the [Case Study](https://dalealberto.github.io/Case_Study_GDA/).
 
 
 ### Automating work (Skills: Python)
