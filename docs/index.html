@@ -239,6 +239,30 @@
             margin-right: 1rem; 
         }
 
+        /* Media query for small screens */
+        @media (max-width: 576px) {
+            header {
+                padding: 0rem; /* Reduce padding for smaller screens */
+                height: 17vh; /* Maintain height at 1/10th of the viewport height */
+            }
+
+            nav ul {
+                flex-wrap: wrap; /* Allow items to wrap */
+                padding: 0;
+                margin: 0;
+                width: 90%;
+                overflow: hidden; /* Prevent overflow */
+            }
+
+            nav ul li {
+                width: calc(100% / 4 - 0.5rem); /* 4 items per row, adjust for margin */
+                text-align: center; /* Center text */
+                font-size: 0.9rem; /* Adjust font size */
+                margin: 0.15rem; /* Adjust margin */
+            }
+
+        }
+
     </style>
 </head>
 <body>
